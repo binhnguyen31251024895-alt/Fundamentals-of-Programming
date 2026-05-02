@@ -8,7 +8,7 @@ namespace Fundamentals_of_Programming.Buổi_3
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            Console.WriteLine("===== BÀI TẬP 15 PHÚT =====");
+            Console.WriteLine("===== BÀI TẬP 15 PHÚT BUỔI 3 =====");
             Console.WriteLine("1. Tính toán hai số với phép +, -, *, x, /");
             Console.WriteLine("2. Tính giá trị hàm x = y^2 + 2y + 1 với y từ -5 đến 5");
             Console.WriteLine("3. Tính tốc độ km/h và miles/h");
