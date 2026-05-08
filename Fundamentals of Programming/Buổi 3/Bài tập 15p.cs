@@ -4,7 +4,7 @@ namespace Fundamentals_of_Programming.Buổi_3
 {
     internal class Bài_tập_15p
     {
-        static void Main(string[] args)
+        public static void Chay()
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 

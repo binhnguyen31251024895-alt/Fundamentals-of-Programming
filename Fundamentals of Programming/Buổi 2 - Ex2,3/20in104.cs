@@ -6,7 +6,7 @@ namespace Fundamentals_of_Programming.Buổi_2___Ex2_3
 {
     internal class _20in104
     {
-        static void Main(string[] args)
+        public static void Chay()
         {
             {
                 Console.OutputEncoding = System.Text.Encoding.UTF8;
