@@ -3,7 +3,7 @@ using System.Text;
 
 class BaiTapMang10Bai
 {
-    static void Main()
+    static void Mainbaitapmang()
     {
         Console.OutputEncoding = Encoding.UTF8;
         Console.InputEncoding = Encoding.UTF8;
