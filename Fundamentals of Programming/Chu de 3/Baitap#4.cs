@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Text;
 
-class ControlFlowExercises
-{
-    static void Main()
+class ControlFlowExercisesOld
+{ 
+    static void Mainbai4()
     {
         Console.OutputEncoding = Encoding.UTF8;
         Console.InputEncoding = Encoding.UTF8;
