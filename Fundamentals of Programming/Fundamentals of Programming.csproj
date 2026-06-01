@@ -6,7 +6,7 @@
     <RootNamespace>Fundamentals_of_Programming</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>StringExercises</StartupObject>
+    <StartupObject>FileExercises</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

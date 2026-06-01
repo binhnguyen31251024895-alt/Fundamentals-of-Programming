@@ -2,7 +2,7 @@
 
 class StringExercises
 {
-    static void Main()
+    static void Mainbaitap8()
     {
         int choice;
 
