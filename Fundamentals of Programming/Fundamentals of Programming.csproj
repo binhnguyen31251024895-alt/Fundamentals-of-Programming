@@ -6,6 +6,11 @@
     <RootNamespace>Fundamentals_of_Programming</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Baitap6</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Buổi 3\Làm lại các bài trong slide.cs" />
+  </ItemGroup>
 
 </Project>
